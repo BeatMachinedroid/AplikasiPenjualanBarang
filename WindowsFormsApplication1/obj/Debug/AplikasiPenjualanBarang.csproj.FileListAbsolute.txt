@@ -1,0 +1,11 @@
+D:\projek\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\projek\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\projek\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\projek\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AplikasiPenjualanBarang.csprojResolveAssemblyReference.cache
+D:\projek\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AplikasiPenjualanBarang.Gui.MasterBarang.resources
+D:\projek\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AplikasiPenjualanBarang.Gui.MenuUtama.resources
+D:\projek\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AplikasiPenjualanBarang.Properties.Resources.resources
+D:\projek\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AplikasiPenjualanBarang.csproj.GenerateResource.Cache
+D:\projek\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\projek\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\projek\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
